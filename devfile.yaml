@@ -5,7 +5,7 @@ metadata:
   provider: Red Hat
   supportUrl: https://github.com/devfile-samples/devfile-support#support-information
   displayName: java-devfile
-  description: test of with devfile, no dockerfile reference
+  description: test of with devfile and no dockerfile reference
   tags: ["Java", "Maven"]
   projectType: "maven"
   language: "java"

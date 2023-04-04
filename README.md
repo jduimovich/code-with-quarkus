@@ -52,3 +52,15 @@ parent:
   id: java-maven
   registryUrl: "https://registry.devfile.io"
 ```
+
+```
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/burrsutter/code-with-quarkus.git
+git push -u origin main
+```
+
+
+https://www.screencast.com/t/TMeldTu0h
